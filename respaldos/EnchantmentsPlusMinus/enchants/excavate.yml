@@ -1,0 +1,7 @@
+name: Excavate
+maxlevel: 10
+scrapvalue: 75
+upgradeicon: IRON_PICKAXE
+upgradedesc: Has a chance to destroy a cube of blocks at once.
+cost: 100 * 1.35^%lvl%
+chance: '%lvl%'

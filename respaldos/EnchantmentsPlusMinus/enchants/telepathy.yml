@@ -1,0 +1,7 @@
+name: Telepathy
+maxlevel: 1
+scrapvalue: 800
+upgradeicon: ENDER_PEARL
+upgradedesc: Automatically transfers mined items into your inventory.
+cost: '1780'
+chance: '100'

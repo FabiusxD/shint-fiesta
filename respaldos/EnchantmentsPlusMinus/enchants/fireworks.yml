@@ -1,0 +1,7 @@
+name: Fireworks
+maxlevel: 1
+scrapvalue: 450
+upgradeicon: FIREWORK_ROCKET
+upgradedesc: These aren't actually fireworks. They're explosions.
+cost: '900'
+damage: '2'

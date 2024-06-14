@@ -1,0 +1,6 @@
+name: Fire Aspect
+maxlevel: 4
+scrapvalue: 65
+upgradeicon: FIRE_CHARGE
+upgradedesc: Sets target on fire.
+cost: 65 * 1.5^%lvl%

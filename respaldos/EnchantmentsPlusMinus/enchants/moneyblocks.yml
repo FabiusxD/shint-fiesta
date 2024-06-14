@@ -1,0 +1,9 @@
+name: Money Blocks
+maxlevel: 10
+scrapvalue: 100
+upgradeicon: BOOK
+upgradedesc: Has a chance to reward you money for mining.
+cost: 150 * 1.1^%lvl%
+chance: '%lvl%*0.1'
+money: '%lvl%*350'
+random-range: '%lvl%*15'

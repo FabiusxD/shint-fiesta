@@ -1,0 +1,7 @@
+name: Explosive
+maxlevel: 10
+scrapvalue: 75
+upgradeicon: TNT
+upgradedesc: Has a chance to blow up blocks.
+cost: 100 * 1.35^%lvl%
+chance: '%lvl%'

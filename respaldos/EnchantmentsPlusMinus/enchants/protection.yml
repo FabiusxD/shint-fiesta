@@ -1,0 +1,6 @@
+name: Protection
+maxlevel: 10
+scrapvalue: 40
+upgradeicon: DIAMOND_CHESTPLATE
+upgradedesc: Reduces most types of damage by 4% for each level.
+cost: 40 * 1.3^%lvl%

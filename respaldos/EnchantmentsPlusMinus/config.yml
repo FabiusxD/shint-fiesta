@@ -1,0 +1,101 @@
+# +-------------------------+
+# | +---------------------+ |
+# | |    Enchantments+-   | |
+# | +---------------------+ |
+# +-------------------------+
+#
+# This is the configuration file for Enchantments+-.
+# Need help? Check the GitHub project here: https://github.com/dsdd/EnchantmentsPlusMinus
+#
+# +------------------------+
+# |                        |
+# |     Configuration      |
+# |                        |
+# +------------------------+
+#
+# config.yml is constantly being updated (at least for now)~ feel free to suggest any new options!
+#
+
+auto-update: false
+show-enchants: true
+show-enchant-descriptions: true
+abbreviate-large-numbers: true
+use-roman-numerals: false
+anvil-combining-enabled: true
+use-vault-economy: false
+use-action-bar-instead-of-chat-when-inventory-full: true
+enable-enchant-signs: false
+global-cost:
+  enabled: false
+  cost: 69420*%lvl%
+enchant-lore-color: '&9'
+apply-fortune-on:
+- COAL
+- LAPIS_LAZULI
+- REDSTONE
+- DIAMOND
+- EMERALD
+- QUARTZ
+player-kill-reward:
+  enabled: true
+  min: 25
+  max: 50
+mob-kill-reward:
+  enabled: true
+  min: 5
+  max: 10
+mining-reward:
+  enabled: true
+  min: 25
+  max: 50
+  blockstobreak: 1000
+enchant-specific-lore-color: {}
+do-not-add-lore-to:
+- an item e.g. BEDROCK that you do not want lore added to due to plugin interference
+disabled-enchants:
+- an enchant you don't like
+
+enchant-gui-shortcut:
+  on-right-click: true
+  disable-if-holding:
+  - BOW
+  - CROSSBOW
+  - FISHING_ROD
+  - SHIELD
+  - WOODEN_HOE
+  - WOOD_HOE
+  - STONE_HOE
+  - IRON_HOE
+  - GOLDEN_HOE
+  - GOLD_HOE
+  - DIAMOND_HOE
+  - NETHERITE_HOE
+  - LEATHER_HELMET
+  - CHAILMAIL_HELMET
+  - IRON_HELMET
+  - GOLDEN_HELMET
+  - GOLD_HELMET
+  - DIAMOND_HELMET
+  - NETHERITE_HELMET
+  - TURTLE_HELMET
+  - LEATHER_CHESTPLATE
+  - CHAILMAIL_CHESTPLATE
+  - IRON_CHESTPLATE
+  - GOLDEN_CHESTPLATE
+  - GOLD_CHESTPLATE
+  - DIAMOND_CHESTPLATE
+  - NETHERITE_CHESTPLATE
+  - LEATHER_LEGGINGS
+  - CHAILMAIL_LEGGINGS
+  - IRON_LEGGINGS
+  - GOLDEN_LEGGINGS
+  - GOLD_LEGGINGS
+  - DIAMOND_LEGGINGS
+  - NETHERITE_LEGGINGS
+  - LEATHER_BOOTS
+  - CHAILMAIL_BOOTS
+  - IRON_BOOTS
+  - GOLDEN_BOOTS
+  - GOLD_BOOTS
+  - DIAMOND_BOOTS
+  - NETHERITE_BOOTS

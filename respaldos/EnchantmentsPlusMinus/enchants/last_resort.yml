@@ -1,0 +1,7 @@
+name: Last Resort
+maxlevel: 1
+scrapvalue: 300
+upgradeicon: REDSTONE_BLOCK
+upgradedesc: When at low health, your attacks will deal 3x as much damage.
+cost: '1500'
+healththreshold: '3'

@@ -1,0 +1,10 @@
+name: Energized
+maxlevel: 1
+scrapvalue: 450
+upgradeicon: ARROW
+upgradedesc: Gain a speed boost and regeneration when you are hit by your arrow.
+cost: '900'
+speed-amplifier: '%lvl%'
+speed-duration-seconds: '%lvl%*8'
+regeneration-duration-seconds: '%lvl%*8'
+regeneration-amplifier: '1'

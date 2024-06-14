@@ -1,0 +1,7 @@
+name: Vein Miner
+maxlevel: 10
+scrapvalue: 50
+upgradeicon: VINE
+upgradedesc: Has a chance to break all blocks in a vein of ores.
+cost: 75 * 1.2^%lvl%
+chance: '%lvl%*4'

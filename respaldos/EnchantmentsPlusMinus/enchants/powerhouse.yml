@@ -1,0 +1,9 @@
+name: Powerhouse
+maxlevel: 2
+scrapvalue: 200
+upgradeicon: DIAMOND_SWORD
+upgradedesc: Shift + right-click to activate a temporary but powerful strength boost.
+cost: 200 * 2.5^%lvl%
+duration-seconds: '1'
+amplifier: '%lvl%'
+cooldown-seconds: '10'

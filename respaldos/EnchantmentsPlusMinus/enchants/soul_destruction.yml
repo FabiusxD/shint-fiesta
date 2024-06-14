@@ -1,0 +1,7 @@
+name: Soul Destruction
+maxlevel: 1
+scrapvalue: 6500
+upgradeicon: SKELETON_SKULL
+upgradedesc: Has a chance to stop Soulbound from working for any players you kill.
+cost: '12800'
+chance: 10

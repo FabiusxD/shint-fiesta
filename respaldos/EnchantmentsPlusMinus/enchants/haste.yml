@@ -1,0 +1,7 @@
+name: Haste
+maxlevel: 2
+scrapvalue: 75
+upgradeicon: GOLDEN_PICKAXE
+upgradedesc: May apply haste to you while mining.
+cost: 75 * 2^%lvl%
+chance: '%lvl%*0.1'

@@ -1,0 +1,6 @@
+name: Repair
+maxlevel: 1
+scrapvalue: 2400
+upgradeicon: ANVIL
+upgradedesc: While moving, this item will be automatically repaired.
+cost: '12800'

@@ -1,0 +1,6 @@
+name: Sharpness
+maxlevel: 10
+scrapvalue: 60
+upgradeicon: DIAMOND_SWORD
+upgradedesc: Increases damage for melee weapons.
+cost: 60 * 1.4^%lvl%

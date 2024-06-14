@@ -1,0 +1,6 @@
+name: Experience
+maxlevel: 3
+scrapvalue: 750
+upgradeicon: EXPERIENCE_BOTTLE
+upgradedesc: Drops now give more experience.
+cost: 1500 * 1.5 ^ %lvl%

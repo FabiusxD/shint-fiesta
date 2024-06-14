@@ -1,0 +1,7 @@
+name: Thorns
+maxlevel: 5
+scrapvalue: 16
+upgradeicon: CACTUS
+upgradedesc: Reflects some of the damage taken when hit, at the cost of reducing durability
+  with each proc.
+cost: 32 * 1.3^%lvl%

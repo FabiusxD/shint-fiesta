@@ -1,0 +1,8 @@
+name: Boosted
+maxlevel: 3
+scrapvalue: 100
+upgradeicon: DIAMOND_BLOCK
+upgradedesc: Shift + right-click to gain a temporary Fortune boost.
+cost: 200 * %lvl%
+cooldown-seconds: 40 - 5 * %lvl%
+duration-seconds: '4'

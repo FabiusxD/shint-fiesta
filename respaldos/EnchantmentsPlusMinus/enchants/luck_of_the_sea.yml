@@ -1,0 +1,7 @@
+name: Luck of the Sea
+maxlevel: 5
+scrapvalue: 24
+upgradeicon: FISHING_ROD
+upgradedesc: Increases rate of good loot (enchanting books, etc.). Higher levels increase
+  chance.
+cost: 24 + %lvl% * 24

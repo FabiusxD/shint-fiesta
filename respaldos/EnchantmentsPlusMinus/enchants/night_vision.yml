@@ -1,0 +1,6 @@
+name: Night Vision
+maxlevel: 1
+scrapvalue: 300
+upgradeicon: ENDER_PEARL
+upgradedesc: Gain Night Vision upon equipping this tool.
+cost: '1500'

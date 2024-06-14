@@ -1,0 +1,7 @@
+name: Thundering Blow
+maxlevel: 1
+scrapvalue: 400
+upgradeicon: ENCHANTED_BOOK
+upgradedesc: Smites any enemy you hit with thunder every few shots.
+cost: '600'
+shots-to-activate: '4'

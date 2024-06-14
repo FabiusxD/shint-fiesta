@@ -1,0 +1,7 @@
+name: Soulbound
+maxlevel: 1
+scrapvalue: 4000
+upgradeicon: SKELETON_SKULL
+upgradedesc: Has a moderate chance to keep your item on death.
+cost: '12800'
+chance: 40

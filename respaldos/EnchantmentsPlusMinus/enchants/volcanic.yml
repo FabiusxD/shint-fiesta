@@ -1,0 +1,7 @@
+name: Volcanic
+maxlevel: 10
+scrapvalue: 350
+upgradeicon: LAVA_BUCKET
+upgradedesc: Burns anyone who hits you.
+cost: 350 * %lvl%
+duration-seconds: 1.5*%lvl%

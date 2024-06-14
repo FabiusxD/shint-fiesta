@@ -1,0 +1,7 @@
+name: Fly
+maxlevel: 1
+scrapvalue: 6400
+upgradeicon: ELYTRA
+upgradedesc: Allows you to fly while holding this item.
+cost: '51200'
+enabled: true

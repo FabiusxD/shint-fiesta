@@ -1,0 +1,6 @@
+name: Flammable
+maxlevel: 1
+scrapvalue: 65
+upgradeicon: MAGMA_CUBE_SPAWN_EGG
+upgradedesc: Burns the nearby terrain of where your arrow lands.
+cost: '100'

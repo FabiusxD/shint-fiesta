@@ -1,0 +1,7 @@
+name: Autosmelt
+maxlevel: 10
+scrapvalue: 200
+upgradeicon: FURNACE
+upgradedesc: Has a chance to automatically smelt mined blocks.
+cost: 200 * 1.15^%lvl%
+chance: '%lvl%*10'

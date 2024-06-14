@@ -1,0 +1,6 @@
+name: Power
+maxlevel: 10
+scrapvalue: 65
+upgradeicon: BOW
+upgradedesc: Increases arrow damage.
+cost: 65 * 1.4^%lvl%

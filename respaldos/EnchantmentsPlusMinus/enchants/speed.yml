@@ -1,0 +1,6 @@
+name: Speed
+maxlevel: 4
+scrapvalue: 500
+upgradeicon: FEATHER
+upgradedesc: Move faster while holding this item.
+cost: 500 * 2 ^ %lvl%
