@@ -1,9 +1,0 @@
-name: Enderbow
-maxlevel: 1
-scrapvalue: 750
-upgradeicon: ENDER_PEARL
-upgradedesc: Allows you to teleport to where your arrow lands. You must be holding
-  shift while shooting until you teleport.
-cost: '1780'
-radius: '5'
-cooldown-seconds: '10'

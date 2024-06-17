@@ -1,7 +1,0 @@
-name: Poisonous
-maxlevel: 10
-scrapvalue: 175
-upgradeicon: BOOK
-upgradedesc: Poisons anyone who hits you.
-cost: 175 * 1.1^%lvl%
-duration-seconds: 2*%lvl%

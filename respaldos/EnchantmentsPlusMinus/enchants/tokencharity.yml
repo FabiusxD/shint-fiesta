@@ -1,9 +1,0 @@
-name: Token Charity
-maxlevel: 10
-scrapvalue: 100
-upgradeicon: BOOK
-upgradedesc: Has a chance to reward everyone tokens for your mining.
-cost: 150 * 1.1^%lvl%
-chance: '%lvl%*0.02'
-tokens: '%lvl%*5'
-random-range: '%lvl%*2'

@@ -1,7 +1,0 @@
-name: Infinity
-maxlevel: 1
-scrapvalue: 140
-upgradeicon: BOOK
-upgradedesc: Shooting consumes no regular arrows. Does not include Tipped Arrows or
-  Spectral Arrows.
-cost: '250'

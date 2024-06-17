@@ -1,7 +1,0 @@
-name: Backup Spells
-maxlevel: 1
-scrapvalue: 240
-upgradeicon: GLASS_BOTTLE
-upgradedesc: Shift + right-click to throw a random harmful splash potion.
-cost: '480'
-cooldown-seconds: '15'

@@ -1,9 +1,0 @@
-name: Evade
-maxlevel: 10
-scrapvalue: 400
-upgradeicon: BOOK
-upgradedesc: Completely avoids an attack every 10 hits.
-cost: 600 * 1.5^%lvl%
-luckbased: false
-chance: '5'
-hits-to-activate: '10'

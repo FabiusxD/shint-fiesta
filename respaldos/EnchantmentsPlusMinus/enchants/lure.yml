@@ -1,7 +1,0 @@
-name: Lure
-maxlevel: 5
-scrapvalue: 24
-upgradeicon: PUFFERFISH
-upgradedesc: Decreases wait time until fish/junk/loot \"bites\". Higher Levels increase
-  speed.
-cost: 24 + %lvl% * 24

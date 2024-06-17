@@ -1,7 +1,0 @@
-name: Momentum
-maxlevel: 2
-scrapvalue: 300
-upgradeicon: LEATHER_BOOTS
-upgradedesc: Hitting mobs gives you a temporary speed boost.
-cost: 400 * 1.5^%lvl%
-duration-seconds: '%lvl%*4'

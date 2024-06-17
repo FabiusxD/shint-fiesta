@@ -1,7 +1,0 @@
-name: Retaliate
-maxlevel: 3
-scrapvalue: 400
-upgradeicon: IRON_AXE
-upgradedesc: Gives a very temporary strength boost when hit.
-cost: 500 * 1.5^%lvl%
-duration-seconds: '1'

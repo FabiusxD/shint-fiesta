@@ -1,6 +1,0 @@
-name: Fortune
-maxlevel: 10
-scrapvalue: 40
-upgradeicon: DIAMOND
-upgradedesc: Increases certain block drops. Higher levels increase chances.
-cost: 40 * 1.5^%lvl%

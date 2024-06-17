@@ -1,7 +1,0 @@
-name: Jagged
-maxlevel: 2
-scrapvalue: 200
-upgradeicon: PRISMARINE_SHARD
-upgradedesc: The damage of this item is amplified when its durability is low.
-cost: 100 * 3^%lvl%
-durabilitythresholdpercent: 30

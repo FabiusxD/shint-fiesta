@@ -1,9 +1,0 @@
-name: Token Blocks
-maxlevel: 20
-scrapvalue: 100
-upgradeicon: GOLD_BLOCK
-upgradedesc: Has a chance to reward you tokens for mining.
-cost: 150 * 1.1^%lvl%
-chance: '%lvl%*0.1'
-tokens: '%lvl%*5'
-random-range: '%lvl%'

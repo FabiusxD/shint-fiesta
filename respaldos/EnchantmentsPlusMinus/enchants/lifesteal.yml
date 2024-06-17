@@ -1,7 +1,0 @@
-name: Life Steal
-maxlevel: 2
-scrapvalue: 600
-upgradeicon: WITHER_SKELETON_SKULL
-upgradedesc: Hitting mobs returns you health.
-cost: 600 * 1.5^%lvl%
-hearts: '%lvl%*0.5'

@@ -1,8 +1,0 @@
-name: Beheading
-maxlevel: 5
-scrapvalue: 240
-upgradeicon: ZOMBIE_HEAD
-upgradedesc: Increases the chance of getting the head of a player or a mob.
-cost: 250 * 1.2^%lvl%
-player-chance: '%lvl%'
-mob-chance: '%lvl%*2'

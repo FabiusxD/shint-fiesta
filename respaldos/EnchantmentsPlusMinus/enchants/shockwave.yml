@@ -1,8 +1,0 @@
-name: Shockwave
-maxlevel: 3
-scrapvalue: 600
-upgradeicon: GLOWSTONE
-upgradedesc: Damages all enemies in a radius of where your arrow lands.
-cost: 600 * 1.4^%lvl%
-damage: '%lvl%'
-radius: '%lvl%*2'

@@ -1,9 +1,0 @@
-name: Machinery
-maxlevel: 5
-scrapvalue: 750
-upgradeicon: PISTON
-upgradedesc: A barrage of arrows will fly down on your enemy every few shots!
-cost: 1250 * %lvl%
-radius: '2'
-arrows: 5*%lvl%
-shots-to-activate: 12 - %lvl%

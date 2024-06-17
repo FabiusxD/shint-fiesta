@@ -1,6 +1,0 @@
-name: Jump Boost
-maxlevel: 4
-scrapvalue: 400
-upgradeicon: EMERALD_BLOCK
-upgradedesc: Jump higher while holding this item.
-cost: 400 * 2 ^ %lvl%

@@ -1,6 +1,0 @@
-name: Overhealed
-maxlevel: 4
-scrapvalue: 350
-upgradeicon: DIAMOND_CHESTPLATE
-upgradedesc: Gives more hearts.
-cost: 900 * 1.35^%lvl%

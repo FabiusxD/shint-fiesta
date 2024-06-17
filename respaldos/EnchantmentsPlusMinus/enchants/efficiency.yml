@@ -1,6 +1,0 @@
-name: Efficiency
-maxlevel: 10
-scrapvalue: 30
-upgradeicon: DIAMOND_PICKAXE
-upgradedesc: Increases mining speed.
-cost: 30 * 1.4^%lvl%

@@ -1,7 +1,0 @@
-name: Saturated
-maxlevel: 10
-scrapvalue: 300
-upgradeicon: COOKED_BEEF
-upgradedesc: Gives you saturation when you are hit.
-cost: 400 * %lvl%
-ticks: 30*%lvl%

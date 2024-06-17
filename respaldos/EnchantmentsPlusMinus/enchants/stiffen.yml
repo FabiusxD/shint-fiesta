@@ -1,8 +1,0 @@
-name: Stiffen
-maxlevel: 2
-scrapvalue: 300
-upgradeicon: BOOK
-upgradedesc: Applies resistance on you when you are low on health.
-cost: 300 * 1.5^%lvl%
-healththreshold: '5'
-amplifier: '%lvl%'

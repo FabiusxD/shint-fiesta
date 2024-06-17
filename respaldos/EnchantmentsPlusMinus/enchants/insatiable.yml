@@ -1,7 +1,0 @@
-name: Insatiable
-maxlevel: 10
-scrapvalue: 400
-upgradeicon: REDSTONE
-upgradedesc: The less health you have, the more damage you inflict.
-cost: 400 * 1.2^%lvl%
-extradamage: '%lvl%'

@@ -1,9 +1,0 @@
-name: Charity
-maxlevel: 10
-scrapvalue: 100
-upgradeicon: BOOK
-upgradedesc: Has a chance to reward everyone money for your mining.
-cost: 150 * 1.1^%lvl%
-chance: '%lvl%*0.02'
-money: '%lvl%*350'
-random-range: '%lvl%*15'

@@ -1,6 +1,0 @@
-name: Unbreaking
-maxlevel: 10
-scrapvalue: 10
-upgradeicon: BEDROCK
-upgradedesc: Increases item durability. Higher levels increase durability further.
-cost: 10 * 1.2^%lvl%
